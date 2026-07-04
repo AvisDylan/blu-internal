@@ -1,6 +1,4 @@
-#ifndef BLU_EXTERNAL_LIBRARY_H
-#define BLU_EXTERNAL_LIBRARY_H
+#pragma once
 
 void hello();
 
-#endif // BLU_EXTERNAL_LIBRARY_H
