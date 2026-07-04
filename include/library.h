@@ -1,0 +1,6 @@
+#ifndef BLU_EXTERNAL_LIBRARY_H
+#define BLU_EXTERNAL_LIBRARY_H
+
+void hello();
+
+#endif // BLU_EXTERNAL_LIBRARY_H
